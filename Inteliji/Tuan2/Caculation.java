@@ -17,5 +17,6 @@ public class Caculation {
     public static void main(String[] args){
         Caculation cal = new Caculation(5,7);
         System.out.println((cal.sum()));
+        System.out.println((cal.minus()));
     }
 }
